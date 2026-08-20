@@ -46,14 +46,6 @@ Every module maps 1:1 onto a definition or algorithm in the paper, so the code c
 ```
 .
 ├── HybridLLM_RL_Notebook.ipynb     # Walk-through notebook covering every component above
-├── code/
-│   ├── verify/prop1_numerical.py   # Table 1: numerical check of Proposition 4.1
-│   ├── audit/tasks.json            # 20 MiniGrid tasks with ground-truth subgoal decompositions
-│   └── ...                         # Planner, PotentialShaper, SubgoalScheduler, ReplanTrigger
-├── configs/                        # YAML configs: reference hybrid + ablations
-│                                   #   (subgoal source, shaping, replanning, Done oracle, LLM backbone)
-├── tests/                          # 26 unit tests (25 run offline; 1 skipped without a live LLM)
-├── requirements.txt
 └── README.md
 ```
 
