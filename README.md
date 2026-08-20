@@ -61,6 +61,10 @@ Every module maps 1:1 onto a definition or algorithm in the paper, so the code c
 git clone https://github.com/chrishounwanou/hybrid-llm-rl-framework.git
 cd hybrid-llm-rl-framework
 python -m venv .venv && source .venv/bin/activate
+
+# CPU-only (recommended): install the CPU PyTorch wheel first to avoid
+# pulling CUDA libraries, then the rest of the dependencies.
+pip install torch --index-url https://download.pytorch.org/whl/cpu
 pip install -r requirements.txt
 ```
 
