@@ -1,0 +1,38 @@
+# ---------------------------------------------------------------------------
+# Requirements for hybrid-llm-rl-framework
+#
+# CPU-only install (recommended; everything in the paper runs on CPU):
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements.txt
+#
+# GPU install: skip the first line above; the default PyPI torch wheel
+# includes CUDA support.
+# ---------------------------------------------------------------------------
+
+# Core numerics / RL
+numpy>=1.24,<3
+torch>=2.0
+gymnasium>=0.29
+minigrid>=2.3
+stable-baselines3>=2.3
+
+# Subgoal embedding (frozen MiniLM-L6-v2, d=384)
+sentence-transformers>=2.7
+
+# LLM backends
+# The Ollama Python client is only needed if the code imports `ollama`.
+# If the planner talks to Ollama over plain HTTP, `requests` alone suffices
+# and the `ollama` line can be removed.
+ollama>=0.3
+requests>=2.31
+
+# Configs, evaluation, plotting
+pyyaml>=6.0
+scipy>=1.11          # bootstrap CIs
+pandas>=2.0
+matplotlib>=3.7
+tqdm>=4.66
+
+# Notebook + tests
+jupyter>=1.0
+pytest>=7.4
