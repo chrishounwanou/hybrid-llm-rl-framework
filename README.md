@@ -1,6 +1,5 @@
 # Policy-invariant reward shaping from LLM feedback
 
-Official reference implementation of **[Policy-Invariant Reward Shaping from LLM Feedback: A Framework for Hybrid RL Agents](https://arxiv.org/abs/2608.18008)** — arXiv:2608.18008 [cs.LG], August 2026.
 
 **Authors:** [Christophe D. Hounwanou](https://www.linkedin.com/in/chrishounwanou/)<sup>1,2</sup>, [John E. Eze](https://www.linkedin.com/in/john-e-eze/)<sup>1</sup>, [Yaé U. Gaba](https://www.linkedin.com/in/gabayae/)<sup>2,3,4</sup>
 
@@ -164,6 +163,10 @@ What the pilot does establish: the pipeline runs end-to-end on CPU for 90k steps
 ```
 
 ---
+
+
+Official reference implementation of **[Policy-Invariant Reward Shaping from LLM Feedback: A Framework for Hybrid RL Agents](https://arxiv.org/abs/2608.18008)** — arXiv:2608.18008 [cs.LG], August 2026.
+
 
 ## Contact
 
