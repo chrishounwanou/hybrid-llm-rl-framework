@@ -7,7 +7,9 @@
 
 <sup>2</sup> AIRINA Labs, AI.Technipreneurs, Bénin &nbsp;·&nbsp; 
 
-<sup>3</sup> Sefako Makgatho Health Sciences University, South Africa &nbsp;·&nbsp; <sup>4</sup> African Center for Advanced Studies, Cameroon
+<sup>3</sup> Sefako Makgatho Health Sciences University, South Africa &nbsp;·&nbsp; 
+
+<sup>4</sup> African Center for Advanced Studies, Cameroon
 
 [Abstract](https://arxiv.org/abs/2608.18008) · [PDF](https://arxiv.org/pdf/2608.18008) · [HTML](https://arxiv.org/html/2608.18008v1)
 
