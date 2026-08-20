@@ -2,7 +2,7 @@
 
 Reference implementation for the paper **[Policy-Invariant Reward Shaping from LLM Feedback: A Framework for Hybrid RL Agents](https://arxiv.org/abs/2608.18008)** (arXiv:2608.18008, cs.LG, August 2026).
 
-**Authors:** [Christophe D. Hounwanou](https://arxiv.org/a/hounwanou_c_1)<sup>1,2</sup>, [John Emeka Eze](https://arxiv.org/a/eze_j_1)<sup>1</sup>, [Yaé U. Gaba](https://arxiv.org/a/gaba_y_1)<sup>2,3,4</sup>
+**Authors:** [Christophe D. Hounwanou](https://www.linkedin.com/in/chrishounwanou/)<sup>1,2</sup>, [John E. Eze](https://www.linkedin.com/in/john-e-eze/)<sup>1</sup>, [Yaé U. Gaba](https://www.linkedin.com/in/gabayae/)<sup>2,3,4</sup>
 
 <sup>1</sup> African Institute for Mathematical Sciences, Rwanda &nbsp;·&nbsp; <sup>2</sup> AIRINA Labs, AI.Technipreneurs, Bénin &nbsp;·&nbsp; <sup>3</sup> Sefako Makgatho Health Sciences University, South Africa &nbsp;·&nbsp; <sup>4</sup> African Center for Advanced Studies, Cameroon
 
