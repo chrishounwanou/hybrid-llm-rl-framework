@@ -3,7 +3,11 @@
 
 **Authors:** [Christophe D. Hounwanou](https://www.linkedin.com/in/chrishounwanou/)<sup>1,2</sup>, [John E. Eze](https://www.linkedin.com/in/john-e-eze/)<sup>1</sup>, [Yaé U. Gaba](https://www.linkedin.com/in/gabayae/)<sup>2,3,4</sup>
 
-<sup>1</sup> African Institute for Mathematical Sciences, Rwanda &nbsp;·&nbsp; <sup>2</sup> AIRINA Labs, AI.Technipreneurs, Bénin &nbsp;·&nbsp; <sup>3</sup> Sefako Makgatho Health Sciences University, South Africa &nbsp;·&nbsp; <sup>4</sup> African Center for Advanced Studies, Cameroon
+<sup>1</sup> African Institute for Mathematical Sciences, Rwanda &nbsp;·&nbsp; 
+
+<sup>2</sup> AIRINA Labs, AI.Technipreneurs, Bénin &nbsp;·&nbsp; 
+
+<sup>3</sup> Sefako Makgatho Health Sciences University, South Africa &nbsp;·&nbsp; <sup>4</sup> African Center for Advanced Studies, Cameroon
 
 [Abstract](https://arxiv.org/abs/2608.18008) · [PDF](https://arxiv.org/pdf/2608.18008) · [HTML](https://arxiv.org/html/2608.18008v1)
 
