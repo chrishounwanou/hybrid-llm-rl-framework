@@ -167,10 +167,10 @@ What the pilot does establish: the pipeline runs end-to-end on CPU for 90k steps
 ---
 
 
-Official reference implementation of **[Policy-Invariant Reward Shaping from LLM Feedback: A Framework for Hybrid RL Agents](https://arxiv.org/abs/2608.18008)** — arXiv:2608.18008 [cs.LG], August 2026.
+Official reference implementation of **[Policy-Invariant Reward Shaping from LLM Feedback: A Framework for Hybrid RL Agents](https://arxiv.org/abs/2608.18008)** - arXiv:2608.18008 [cs.LG], August 2026.
 
 
 ## Contact
 
-Corresponding author: Christophe D. Hounwanou — christophe.hounwanou@aims.ac.rw
+Corresponding author: Christophe D. Hounwanou - christophe.hounwanou@aims.ac.rw
 Bug reports and questions: please open a [GitHub issue](https://github.com/chrishounwanou/hybrid-llm-rl-framework/issues).
